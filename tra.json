@@ -1,0 +1,86 @@
+[
+    {
+        "id":1,
+        "hinh":"https://phuclong.com.vn/uploads/dish/925ad83267c519-trhoahongtilcphclong.png",
+        "name":"Trà Hoa Hồng Túi Lọc",
+        "size":"2g x 25 gói",
+        "price":"36000"
+    },
+    {
+        "id":2,
+        "hinh":"https://phuclong.com.vn/uploads/dish/dbeebaca2cf5ba-trvaitilcphclong.png",
+        "name":"Trà Vải Túi Lọc",
+        "size":"2g x 25 gói",
+        "price":"40000"
+    },
+    {
+        "id":3,
+        "hinh":"https://phuclong.com.vn/uploads/dish/1fdc7a610e0c86-trsentilcphclong.png",
+        "name":"Trà Sen Túi Lọc",
+        "size":"2g x 25 gói",
+        "price":"38000"
+    },
+    {
+        "id":4,
+        "hinh":"https://phuclong.com.vn/uploads/dish/9224ead04db9af-trotilcphclong.png",
+        "name":"Trà Đào Túi Lọc",
+        "size":"2g x 25 gói",
+        "price":"37000"
+    },
+    {
+        "id":5,
+        "hinh":"https://phuclong.com.vn/uploads/dish/7ea152f86c543b-hngtrtilcphclong.png",
+        "name":"Hồng Trà Túi Lọc",
+        "size":"2g x 25 gói",
+        "price":"37000"
+    },
+    {
+        "id":6,
+        "hinh":"https://phuclong.com.vn/uploads/dish/4da70ef7a21ed3-trxanhtilcphclong.png",
+        "name":"Trà Xanh Túi Lọc",
+        "size":"2g x 25 gói",
+        "price":"30000"
+    },
+    {
+        "id":7,
+        "hinh":"https://phuclong.com.vn/uploads/dish/0c65edda13706b-trlongtilcphclong.png",
+        "name":"Trà Ô Long Túi Lọc",
+        "size":"2g x 25 gói",
+        "price":"40000"
+    },
+    {
+        "id":8,
+        "hinh":"https://phuclong.com.vn/uploads/dish/694c46e99546be-trlitilcphclong.png",
+        "name":"Trà Lài Túi Lọc",
+        "size":"2g x 25 gói",
+        "price":"37000"
+    },
+    {
+        "id":9,
+        "hinh":"https://phuclong.com.vn/uploads/dish/c584a70cb09616-settiulongchuphclong.png",
+        "name":"Set Tiểu Long Châu",
+        "size":"120g x 2 lon",
+        "price":"90000"
+    },
+    {
+        "id":10,
+        "hinh":"https://phuclong.com.vn/uploads/dish/9d3abca475ebf9-trlilongiyphclong.png",
+        "name":"Trà Lài Lon giấy",
+        "size":"100g",
+        "price":"58000"
+    },
+    {
+        "id":11,
+        "hinh":"https://phuclong.com.vn/uploads/dish/aa48790b50dc65-trsentitamgicphclong.png",
+        "name":"Trà Sen Túi Tam Giác",
+        "size":"3g x 10 gói",
+        "price":"58000"
+    },
+    {
+        "id":12,
+        "hinh":"https://phuclong.com.vn/uploads/dish/5b668796fecc3b-trlititamgicphclong.png",
+        "name":"Trà Lài Túi Tam Giác",
+        "size":"3g x 10 gói",
+        "price":"80000"
+    }
+]
